@@ -2,5 +2,5 @@ Git is awesome!
 new line
 experiment with amend
 new data
-
-something new
+new line 2
+new line 3
